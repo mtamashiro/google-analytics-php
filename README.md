@@ -1,6 +1,6 @@
 # google-analytics-php
 
-Exemplo de utilização do Google Analytics API
+Exemplo de utilização do Google Analytics API utilizando PHP
 
 # Para que pode ser utilizado 
 
@@ -25,7 +25,10 @@ Como criar a Credencial:
 </ul> 
 
 Após criar a credencial, utilize o composer:<br>
+```bash
 composer require google/apiclient:^2.0
+```
+
 
 Rode o arquivo example.php
 
